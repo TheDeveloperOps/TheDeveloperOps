@@ -12,19 +12,6 @@ My name is Bala Murugan and I'm a software developer/ Cyber Security enthusiasts
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Remote Interactive Debugging of Python Applications Running in Kubernetes](https://martinheinz.dev/blog/99)
-- [The Right Way to Run Shell Commands From Python](https://martinheinz.dev/blog/98)
-- [Real Multithreading is Coming to Python - Learn How You Can Use It Now](https://martinheinz.dev/blog/97)
-- [Python&#39;s Missing Batteries: Essential Libraries You&#39;re Missing Out On](https://martinheinz.dev/blog/96)
-<!-- BLOG-POST-LIST:END -->
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
@@ -59,15 +46,9 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: [https://twitter.com/TheDeveloperOps](https://www.instagram.com/_sigxma_bxla_/)
+[2]: [https://github.com/TheDeveloperOps](https://www.linkedin.com/in/bala-murugan-ganesan/)
+[3]: [https://github.com/TheDeveloperOps](https://flowcv.me/bala-murugan)
 
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
