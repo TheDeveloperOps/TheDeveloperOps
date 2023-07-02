@@ -1,7 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://www.canva.com/design/DAFngIXzN0c/ZhIhkePfpAtlsH1_owEOvg/edit?utm_content=DAFngIXzN0c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "Header")](https://flowcv.me/bala-murugan)
-
+![image](https://github.com/TheDeveloperOps/TheDeveloperOps/assets/82383377/1a0ca366-84a8-4fdd-9c19-eda561bdc12b)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Bala Murugan and I'm a software developer/ Cyber Security enthusiasts. I'm from India, living in Chenai and currently doing computer science enginnering final years. You can find me on [LinkedIn](https://www.linkedin.com/in/bala-murugan-ganesan/).
