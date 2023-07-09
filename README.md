@@ -3,7 +3,7 @@
 ![image](https://github.com/TheDeveloperOps/TheDeveloperOps/assets/82383377/369ae5c6-8a0f-41a1-86a5-a77e18bbac5e)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" height="60px" />
 
-My name is Bala Murugan and I'm a software developer/ Cyber Security enthusiasts. I'm from India, living in Chennai and currently doing computer science engineering final years. You can find me on [LinkedIn](https://www.linkedin.com/in/bala-murugan-ganesan/).
+My name is Bala Murugan and I'm a software developer/ Cyber Security enthusiast. I'm from India, living in Chennai and currently doing computer science engineering final year. You can find me on [LinkedIn](https://www.linkedin.com/in/bala-murugan-ganesan/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
